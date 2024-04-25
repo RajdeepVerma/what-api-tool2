@@ -1,2 +1,1 @@
-# what-api-tool2 (underconstruction)
-# Check your WhatsApp, I have DM ed you multiple times
+# what-api-tool2 (under-construction)
